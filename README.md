@@ -10,10 +10,11 @@ has yet to be verified against this snapshot.
 
 ## Contest progress
 
-![Preliminary Codeforces scores across selected submissions, from 13,428.666 to 16,397.081](docs/progress.png)
+![Local benchmark scores for 36 solver revisions on the same 12 generated tests](docs/progress.png)
 
-The chart tracks selected submissions on the 22 preliminary tests. The final
-submission placed first with 15,429.025 points on a separate set of 20 tests.
+We reran 36 distinct solver snapshots in Git history order on the same local
+suite (seed `12345`, one case per workload family). Each point is the mean
+score across the 12 cases. All 432 runs were legal.
 
 ## Run locally
 
