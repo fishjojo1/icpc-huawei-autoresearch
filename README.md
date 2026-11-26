@@ -8,6 +8,13 @@ at the ICPC 2026 Online Challenge 1 powered by Huawei.
 repository at commit `a0cc953`. The exact source of the winning submission
 has yet to be verified against this snapshot.
 
+## Contest progress
+
+![Preliminary Codeforces scores across selected submissions, from 13,428.666 to 16,397.081](docs/progress.png)
+
+The chart tracks selected submissions on the 22 preliminary tests. The final
+submission placed first with 15,429.025 points on a separate set of 20 tests.
+
 ## Run locally
 
 Requirements are a POSIX environment, Make, a C++17 compiler, and Python 3.
